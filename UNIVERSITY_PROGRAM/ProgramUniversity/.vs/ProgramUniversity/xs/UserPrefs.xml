@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{A7B25707-5502-418A-9337-186D3BFBA252}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProgramUniversity/Provider/XMLDBProvider.cs">
+    <Files>
+      <File FileName="ProgramUniversity/Provider/XMLDBProvider.cs" Line="286" Column="54" />
+      <File FileName="ProgramUniversity/Creators/UniversityCreator.cs" />
+      <File FileName="ProgramUniversity/Creators/DBOFullUniversityCreator.cs" />
+      <File FileName="ProgramUniversity/DBO/DBOAddress.cs" />
+      <File FileName="ProgramUniversity/university.xml" />
+      <File FileName="ProgramUniversity/University.cs" />
+      <File FileName="ProgramUniversity/StudentComparer.cs" />
+      <File FileName="ProgramUniversity/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProgramUniversity" expanded="True">
+            <Node name="ProgramUniversity" expanded="True">
+              <Node name="Creators" expanded="True" />
+              <Node name="DBO" expanded="True" />
+              <Node name="Provider" expanded="True">
+                <Node name="XMLDBProvider.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ProgramUniversity PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
