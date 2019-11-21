@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translite", "Translite\Translite.csproj", "{7282AF74-4C79-41EA-9487-89CFDF7D2239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransliteTests", "TransliteTests\TransliteTests.csproj", "{C2B69C8B-ED90-48FF-8D71-A160DD9634B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7282AF74-4C79-41EA-9487-89CFDF7D2239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7282AF74-4C79-41EA-9487-89CFDF7D2239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7282AF74-4C79-41EA-9487-89CFDF7D2239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7282AF74-4C79-41EA-9487-89CFDF7D2239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2B69C8B-ED90-48FF-8D71-A160DD9634B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B69C8B-ED90-48FF-8D71-A160DD9634B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2B69C8B-ED90-48FF-8D71-A160DD9634B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2B69C8B-ED90-48FF-8D71-A160DD9634B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
